@@ -1,0 +1,45 @@
+Host,"IP Address",Used,Status
+dpastgrtdmrundep,"10.237.82.245","24.36",Normal
+dpastgespesm,"10.237.82.226","22.86",Normal
+dpastgespconn01,"10.237.82.217","21.71",Normal
+dpastgespproc10,"10.237.82.227","20.87",Normal
+dpastgdicomp,"10.237.82.252","19.61",Normal
+dpastgespconn02,"10.237.82.214","14.09",Normal
+"ip-10-237-82-239","10.237.82.239","13.61",Normal
+"dpaespprocessors18.globetel.com","10.237.82.182","13.16",Normal
+"dpaespprocessors19.globetel.com","10.237.82.184","12.60",Normal
+"dpastgespproc20.globetel.com","10.237.82.208","11.85",Normal
+"dpastgespproc16.globetel.com","10.237.82.204","11.31",Normal
+dpastgrunmeta01,"10.237.82.244","10.58",Normal
+"dpastgespproc17.globetel.com","10.237.82.205","10.43",Normal
+"dpastgespproc19.globetel.com","10.237.82.207","10.42",Normal
+"dpastgespproc18.globetel.com","10.237.82.206","9.87",Normal
+dpastgespproc07,"10.237.82.230","9.08",Normal
+dpastgespproc03,"10.237.82.234","8.99",Normal
+dpastganlytcs,"10.237.82.251","5.97",Normal
+dpastgespkwik02,"10.237.82.215","5.85",Normal
+"ip-10-237-82-238","10.237.82.238","4.96",Normal
+dpastgdesrtdm,"10.237.82.253","4.77",Normal
+dpastgdeployment,"10.237.82.225","4.06",Normal
+dpastgrunmeta03,"10.237.82.242","4.00",Normal
+dpastgrunmeta02,"10.237.82.243","2.26",Normal
+dpastgespproc00,"10.237.82.237","2.08",Normal
+dpastgdesmid,"10.237.82.254","1.93",Normal
+dpastgma,"10.237.82.247","1.69",Normal
+dpastgespproc09,"10.237.82.228","1.57",Normal
+dpastgespproc04,"10.237.82.233","1.35",Normal
+dpastgespproc06,"10.237.82.231","1.32",Normal
+dpastgdesmeta,"10.237.82.250","1.25",Normal
+dpastgespproc02,"10.237.82.235","0.82",Normal
+dpastgespproc08,"10.237.82.229","0.53",Normal
+dpastgespproc01,"10.237.82.236","0.50",Normal
+"ip-10-237-82-241.ap-southeast-1.compute.internal","10.237.82.241","0.44",Normal
+dpastgmo,"10.237.82.246","0.44",Normal
+"dpastgespproc13.globetel.com","10.237.82.201","0.44",Normal
+dpastgespproc05,"10.237.82.232","0.44",Normal
+dpastgespkwik01,"10.237.82.216","0.41",Normal
+"ip-10-237-82-240","10.237.82.240","0.31",Normal
+"dpastgespproc12.globetel.com","10.237.82.149","0.28",Normal
+"dpastgespproc11.globetel.com","10.237.82.147",,"NO DATA"
+"dpastgespproc15.globetel.com","10.237.82.203",,"NO DATA"
+"dpastgespproc14.globetel.com","10.237.82.202",,"NO DATA"
