@@ -1,6 +1,6 @@
 # Changelog
-## Version 1.00 28-Jan-2021
-Initial release.
+## Version 1.0.0 28-Jan-2021
+* Initial release.
 
 ## Version 1.0.2 25-Feb-2020
 * print_prod_CPU.to_csv to print_stg_CPU.head(29).to_csv to only print the 30 PROD servers for CPU util
