@@ -14,8 +14,13 @@
 * Combined all .csv outputs to multiple sheets in one .xlsx file
 * Renamed python script to run-me.ipynb
 ---
-
 # Preparation
+## Requirements
+* python3
+* jupyter notebook
+* pandas
+* xlsxwriter
+
 ## Files needed:
 1. envMem.csv - from DPA Environment (once)
 2. envCPU.csv - from DPA Environment (once)
@@ -24,11 +29,11 @@
 5. stgCPU.csv  - from Splunk (weekly)
 6. stgMem.csv - from Splunk (weekly)
 7. prodFS.csv - from Splunk (weekly)
----
+
 ## Links
 * [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582)
 * [Splunk (DPA PROD/Staging 2)](http://10.69.81.41:8000/en-US/app/splunk_app_for_linux_Infrastructure/dashboards)
----
+
 ## Helpful Commands
 * print(mem_df.loc[[20]]) # printing x row
 * envMem_df.tail(10)
@@ -37,12 +42,12 @@
 * DPAenv_df.columns # for reference to check which column to join from DPAenv
 * mergedData.to_csv('filename') # for exporting
 * mergedData.to_csv('filename', index=False) # to remove the index column
----
+
 ## Legend
 * FS - File System
 * df - data file (.csv, xlx, etc)
 * env - environment (official .csv Environment file from google sheets)
----
+
 # How To Use
 1. Rename/save the .csv files to prodMem.csv, stgMem.csv, prodCPU.csv, stgCPU.csv, prodFS.csv
 2. Get Environment files from Google Sheet and name them as envMem.csv, envCPU.csv & envFS.csv
