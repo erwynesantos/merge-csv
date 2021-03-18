@@ -17,8 +17,8 @@ Initial release.
 
 # Preparation
 ## Files needed:
-1. envMem.csv - from GoogleSpreadSheet
-2. envCPU.csv - from GoogleSpreadSheet
+1. envMem.csv - from DPA Environment (once)
+2. envCPU.csv - from DPA Environment (once)
 3. prodMem.csv - from Splunk (weekly)
 4. prodCPU.csv - from Splunk (weekly)
 5. stgCPU.csv  - from Splunk (weekly)
@@ -48,4 +48,3 @@ Initial release.
 2. Get Environment files from Google Sheet and name them as envMem.csv, envCPU.csv & envFS.csv
 3. Place them in Jupyter Notebook dir (./DPA_report/sources/)
 4. Run each boxes, from top to bottom, containing the script by selecting each of them and hitting CTRL + Enter.
-
