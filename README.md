@@ -14,7 +14,7 @@ Initial release.
 * Combined all .csv outputs to multiple sheets in one .xlsx file
 * Renamed python script to run-me.ipynb
 ===
-# How To Use
+# Preparation
 ## Files needed:
 1. envMem.csv - from GoogleSpreadSheet
 2. envCPU.csv - from GoogleSpreadSheet
@@ -24,11 +24,11 @@ Initial release.
 6. stgMem.csv - from Splunk (weekly)
 7. prodFS.csv - from Splunk (weekly)
 ---
-## Links:
+## Links
 * [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582)
 * [Splunk (DPA PROD/Staging 2)](http://10.69.81.41:8000/en-US/app/splunk_app_for_linux_Infrastructure/dashboards)
 ---
-## Helpful commands
+## Helpful Commands
 * print(mem_df.loc[[20]]) # printing x row
 * envMem_df.tail(10)
 * mem_df.tail(10)
@@ -37,7 +37,7 @@ Initial release.
 * mergedData.to_csv('filename') # for exporting
 * mergedData.to_csv('filename', index=False) # to remove the index column
 ---
-## Legend:
+## Legend
 * FS - File System
 * df - data file (.csv, xlx, etc)
 * env - environment (official .csv Environment file from google sheets)
