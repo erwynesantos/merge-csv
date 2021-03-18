@@ -21,7 +21,7 @@
 * pandas
 * xlsxwriter
 
-## Files needed:
+## Files Needed
 1. envMem.csv - from DPA Environment (once)
 2. envCPU.csv - from DPA Environment (once)
 3. prodMem.csv - from Splunk (weekly)
