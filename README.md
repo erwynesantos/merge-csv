@@ -1,4 +1,4 @@
-# <div align="center"> Merge CSV Files With Jupyter Notebook </div>
+# <div align="center"> Merge CSV Files with Jupyter Notebook </div>
 <p align="center"> <img src="https://i2.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image3-1.png?fit=756%2C277&ssl=1"> </p>
 
 ## Changelog
