@@ -65,10 +65,10 @@
 * print(mem_df.loc[[20]]) # printing x row
 * envMem_df.tail(10)
 * mem_df.tail(10)
-* mem_df = df.sort_values(by=['Column_name'], ascending=True) # to sort by column
-* DPAenv_df.columns # for reference to check which column to join from DPAenv
-* mergedData.to_csv('filename') # for exporting
-* mergedData.to_csv('filename', index=False) # to remove the index column
+* mem_df = df.sort_values(by=['Column_name'], ascending=True) # to sort by column.
+* DPAenv_df.columns # for reference to check which column to join from DPAenv.
+* mergedData.to_csv('filename') # for exporting.
+* mergedData.to_csv('filename', index=False) # to remove the index column.
 
 ### Legend
 * FS - File System
@@ -78,6 +78,6 @@
 ---
 ## How To Use
 1. Rename/save the .csv files to prodmem.csv, stgmem.csv, prodcpu.csv, stgcpu.csv, and prodfs.csv.
-2. Get Environment files from [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582) and name them as envMem.csv, envCPU.csv & envFS.csv.
+2. Get Environment files from [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582) and name them as envmem.csv, envcpu.csv & envfs.csv.
 3. Place them in Jupyter Notebook dir (./DPA_report/sources/).
 4. Run each boxes, from top to bottom, containing the script by selecting each of them and hitting <kbd>CTRL</kbd> + <kbd>Enter</kbd>.
