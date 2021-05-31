@@ -4,7 +4,7 @@
 ---
 ## Changelog
 
-### [v2.0.0](run-me-v2.0.0.ipynb)
+### [v2.0.0](run-me-v2.0.0.ipynb) (31-05-2021)
 #### Added
 * Added dropping of rows with _NaN_ values on the "Used" column.
 * Added more "PRINT TO SCREEN" options.
@@ -77,7 +77,7 @@
 
 ---
 ## How To Use
-1. Rename/save the .csv files to prodMem.csv, stgMem.csv, prodCPU.csv, stgCPU.csv, and prodFS.csv.
+1. Rename/save the .csv files to prodmem.csv, stgmem.csv, prodcpu.csv, stgcpu.csv, and prodfs.csv.
 2. Get Environment files from [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582) and name them as envMem.csv, envCPU.csv & envFS.csv.
 3. Place them in Jupyter Notebook dir (./DPA_report/sources/).
 4. Run each boxes, from top to bottom, containing the script by selecting each of them and hitting <kbd>CTRL</kbd> + <kbd>Enter</kbd>.
