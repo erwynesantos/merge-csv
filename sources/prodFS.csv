@@ -1,150 +1,56 @@
 Host,"IP Address",Mount,Used,Status
-dpadicompute,"10.237.82.134","/sas",80,Normal
-dpaespprocessors07,"10.237.82.162","/",70,Normal
-dpaespprocessors06,"10.237.82.161","/",70,Normal
-dpaespprocessors05,"10.237.82.160","/",70,Normal
-dpaespprocessors04,"10.237.82.159","/",70,Normal
-dpaespprocessors03,"10.237.82.158","/",70,Normal
-dpaespprocessors02,"10.237.82.157","/",70,Normal
-dpaespprocessors01,"10.237.82.156","/",70,Normal
-dpaespkwik01,"10.237.82.165","/",69,Normal
-dpaespprocessors90,"10.237.82.183","/",68,Normal
-dpaespprocessors00,"10.237.82.155","/",68,Normal
-dpaespdistrib,"10.237.82.174","/logs/esp11",63,Normal
-dpaespconn02,"10.237.82.179","/data",62,Normal
-dpaespconn01,"10.237.82.178","/data",62,Normal
-dpaespprocessors90,"10.237.82.183","/opt/sas/viya/data",60,Normal
-dpaespprocessors06,"10.237.82.161","/opt/sas/viya/data",58,Normal
-dpaespprocessors05,"10.237.82.160","/opt/sas/viya/data",58,Normal
-dpaespprocessors04,"10.237.82.159","/opt/sas/viya/data",58,Normal
-dpaespprocessors03,"10.237.82.158","/opt/sas/viya/data",58,Normal
-dpaespprocessors00,"10.237.82.155","/opt/sas/viya/data",58,Normal
-dpaespprocessors09,"10.237.82.164","/opt/sas/viya/data",57,Normal
-dpaespprocessors08,"10.237.82.163","/opt/sas/viya/data",57,Normal
-dpaespprocessors07,"10.237.82.162","/opt/sas/viya/data",57,Normal
+dpaespconn02,"10.237.82.179","/data",67,Normal
+dpaespconn01,"10.237.82.178","/data",67,Normal
+dpartdmruntimedeployment,"10.237.82.139","/appl/config",64,Normal
+dpadicompute,"10.237.82.134","/sas",58,Normal
 dpadesignrtdm,"10.237.82.133","/work",57,Normal
-dpartdmruntimedeployment,"10.237.82.139","/appl/config",56,Normal
-dpaespprocessors02,"10.237.82.157","/opt/sas/viya/data",55,Normal
 dpaanalytics,"10.237.82.135","/sas",55,Normal
 dpartdmruntimedeployment,"10.237.82.139","/",54,Normal
-dpaespkwik02,"10.237.82.176","/",53,
-dpaespprocessors01,"10.237.82.156","/opt/sas/viya/data",51,Normal
-dparuntimemetadata03,"10.237.82.142","/",49,Normal
+dparuntimemetadata03,"10.237.82.142","/",48,Normal
 dparuntimemetadata02,"10.237.82.141","/",48,Normal
-dpadesignmidtier,"10.237.82.132","/appl/config",48,Normal
-dpaespeventstreammgr,"10.237.82.166","/opt/sas/viya/config",47,
+dpama,"10.237.82.137","/",47,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/work",46,Normal
 "ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/work",46,Normal
 "ip-10-237-82-143","10.237.82.143","/work",46,Normal
 dpadesignmetadata,"10.237.82.136","/work",46,Normal
 dpamo,"10.237.82.138","/dev",44,Normal
-dpama,"10.237.82.137","/",43,Normal
-dpaespprocessors09,"10.237.82.164","/",43,Normal
 dparuntimemetadata01,"10.237.82.140","/",42,Normal
-dpaespprocessors08,"10.237.82.163","/",42,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/",40,Normal
 "ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/",40,Normal
 "ip-10-237-82-143","10.237.82.143","/",40,Normal
+dpadesignmidtier,"10.237.82.132","/appl/config",40,Normal
 dpadesignmidtier,"10.237.82.132","/appl/sashome",40,Normal
-dpaespeventstreammgr,"10.237.82.166","/",38,
-dpadesignmetadata,"10.237.82.136","/",38,Normal
-dpaespkwik02,"10.237.82.176","/opt/sas/viya/config",36,
-dpaespkwik01,"10.237.82.165","/opt/sas/viya/config",32,Normal
+dpadicompute,"10.237.82.134","/",37,Normal
+dpadesignmetadata,"10.237.82.136","/",37,Normal
 dpamo,"10.237.82.138","/work",31,Normal
 dpartdmruntimedeployment,"10.237.82.139","/work",30,Normal
-dpadicompute,"10.237.82.134","/",28,Normal
 dpamo,"10.237.82.138","/",26,Normal
-dpaespdistrib,"10.237.82.174","/",25,Normal
 dpadesignmidtier,"10.237.82.132","/work",25,Normal
 dpadesignmidtier,"10.237.82.132","/",24,Normal
 dpadeployment,"10.237.82.167","/",23,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/",22,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/",21,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/",21,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/",21,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/",21,Normal
 dpamo,"10.237.82.138","/appl/sashome",20,Normal
 dpama,"10.237.82.137","/appl/sashome",20,Normal
-dpaespkwik02,"10.237.82.176","/opt/sas/viya/data",20,
-dpaespkwik01,"10.237.82.165","/opt/sas/viya/data",20,Normal
 dpadesignrtdm,"10.237.82.133","/appl/sashome",20,Normal
 dpadesignmetadata,"10.237.82.136","/appl/sashome",20,Normal
+dpaespconn02,"10.237.82.179","/",19,Normal
+dpaespconn01,"10.237.82.178","/",19,Normal
 dpartdmruntimedeployment,"10.237.82.139","/appl/sashome",18,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/",18,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/",18,Normal
-dpaespconn02,"10.237.82.179","/",18,Normal
-dpaespconn01,"10.237.82.178","/",18,Normal
-dpaanalytics,"10.237.82.135","/work",17,Normal
-dpaanalytics,"10.237.82.135","/",16,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/opt/sas/viya/config",15,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/opt/sas/viya/config",15,Normal
-dpaespprocessors06,"10.237.82.161","/opt/sas/viya/config",15,Normal
-dpaespprocessors02,"10.237.82.157","/opt/sas/viya/config",15,Normal
-dpaespprocessors00,"10.237.82.155","/opt/sas/viya/config",15,Normal
-dpadesignrtdm,"10.237.82.133","/",15,Normal
+dpaespdistrib,"10.237.82.174","/logs/esp11",17,Normal
+dpaespdistrib,"10.237.82.174","/",15,Normal
 dpadesignmetadata,"10.237.82.136","/appl/config",15,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/opt/sas/viya/config",13,Normal
-dpaespprocessors09,"10.237.82.164","/opt/sas/viya/config",13,Normal
-dpaespprocessors07,"10.237.82.162","/opt/sas/viya/config",13,Normal
-dpaespprocessors05,"10.237.82.160","/opt/sas/viya/config",13,Normal
-dpaespprocessors04,"10.237.82.159","/opt/sas/viya/config",13,Normal
-dpaespprocessors03,"10.237.82.158","/opt/sas/viya/config",13,Normal
-dpaespprocessors01,"10.237.82.156","/opt/sas/viya/config",13,Normal
-dpaespprocessors90,"10.237.82.183","/opt/sas/viya/config",12,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/opt/sas/viya/config",12,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/opt/sas/viya/config",12,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/opt/sas/viya/config",11,Normal
-dpaespprocessors08,"10.237.82.163","/opt/sas/viya/config",11,Normal
-dpaespkwik02,"10.237.82.176","/opt/sas/viya/home",11,
-dpaespkwik01,"10.237.82.165","/opt/sas/viya/home",11,Normal
-dpadesignrtdm,"10.237.82.133","/appl/sasconfig",11,Normal
-"ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/appl/config",8,Normal
-"ip-10-237-82-143","10.237.82.143","/appl/config",8,Normal
-dpaespprocessors90,"10.237.82.183","/opt/sas/viya/home",8,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/opt/sas/viya/home",8,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/opt/sas/viya/home",8,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/opt/sas/viya/home",8,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/opt/sas/viya/home",8,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/opt/sas/viya/home",8,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/opt/sas/viya/home",8,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/opt/sas/viya/config",8,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/opt/sas/viya/home",8,Normal
-dpaespprocessors00,"10.237.82.155","/opt/sas/viya/home",8,Normal
-dpaespprocessors09,"10.237.82.164","/opt/sas/viya/home",7,Normal
-dpaespprocessors08,"10.237.82.163","/opt/sas/viya/home",7,Normal
+dpaanalytics,"10.237.82.135","/",15,Normal
+dpadesignrtdm,"10.237.82.133","/",14,Normal
+dpadesignrtdm,"10.237.82.133","/appl/sasconfig",12,Normal
+"ip-10-237-82-143","10.237.82.143","/appl/config",9,Normal
+"ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/appl/config",7,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/appl/config",6,Normal
-dpaespprocessors07,"10.237.82.162","/opt/sas/viya/home",6,Normal
-dpaespprocessors06,"10.237.82.161","/opt/sas/viya/home",6,Normal
-dpaespprocessors05,"10.237.82.160","/opt/sas/viya/home",6,Normal
-dpaespprocessors04,"10.237.82.159","/opt/sas/viya/home",6,Normal
-dpaespprocessors03,"10.237.82.158","/opt/sas/viya/home",6,Normal
-dpaespprocessors02,"10.237.82.157","/opt/sas/viya/home",6,Normal
-dpaespprocessors01,"10.237.82.156","/opt/sas/viya/home",6,Normal
 dparuntimemetadata03,"10.237.82.142","/appl/sashome",5,Normal
 dparuntimemetadata02,"10.237.82.141","/appl/sashome",5,Normal
 dparuntimemetadata01,"10.237.82.140","/appl/sashome",5,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/appl/sashome",4,Normal
 "ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/appl/sashome",4,Normal
 "ip-10-237-82-143","10.237.82.143","/appl/sashome",4,Normal
-dpaespeventstreammgr,"10.237.82.166","/opt/sas/viya/home",4,
-dpadicompute,"10.237.82.134","/work",4,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/opt/sas/viya/data",3,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/opt/sas/viya/data",3,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/opt/sas/viya/data",3,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/opt/sas/viya/data",3,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/opt/sas/viya/data",3,Normal
-dpaespprocessors90,"10.237.82.183","/usr/bin",2,Normal
-dpaespprocessors09,"10.237.82.164","/usr/bin",2,Normal
-dpaespprocessors08,"10.237.82.163","/usr/bin",2,Normal
-dpaespprocessors07,"10.237.82.162","/usr/bin",2,Normal
-dpaespprocessors06,"10.237.82.161","/usr/bin",2,Normal
-dpaespprocessors05,"10.237.82.160","/usr/bin",2,Normal
-dpaespprocessors04,"10.237.82.159","/usr/bin",2,Normal
-dpaespprocessors03,"10.237.82.158","/usr/bin",2,Normal
-dpaespprocessors02,"10.237.82.157","/usr/bin",2,Normal
-dpaespprocessors01,"10.237.82.156","/usr/bin",2,Normal
-dpaespprocessors00,"10.237.82.155","/usr/bin",2,Normal
-dpaespkwik01,"10.237.82.165","/usr/bin",2,Normal
+dpadicompute,"10.237.82.134","/work",2,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/appl/depot",1,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/appl/di_shareddata",1,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/appl/sasbackup",1,Normal
@@ -193,73 +99,6 @@ dpama,"10.237.82.137","/appl/sasbackup",1,Normal
 dpama,"10.237.82.137","/appl/sasdata",1,Normal
 dpama,"10.237.82.137","/appl/saslogs",1,Normal
 dpama,"10.237.82.137","/work",1,Normal
-dpaespprocessors90,"10.237.82.183","/appl/di_shareddata",1,Normal
-dpaespprocessors90,"10.237.82.183","/appl/sasbackup",1,Normal
-dpaespprocessors90,"10.237.82.183","/logs",1,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/appl/di_shareddata",1,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/appl/sasbackup",1,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/logs",1,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/appl/di_shareddata",1,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/appl/sasbackup",1,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/logs",1,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/appl/di_shareddata",1,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/appl/sasbackup",1,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/logs",1,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/appl/di_shareddata",1,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/appl/sasbackup",1,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/logs",1,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/appl/di_shareddata",1,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/appl/sasbackup",1,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/logs",1,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/appl/di_shareddata",1,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/appl/sasbackup",1,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/logs",1,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/opt/sas/viya/data",1,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/appl/di_shareddata",1,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/appl/sasbackup",1,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/logs",1,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/opt/sas/viya/data",1,Normal
-dpaespprocessors09,"10.237.82.164","/appl/di_shareddata",1,Normal
-dpaespprocessors09,"10.237.82.164","/appl/sasbackup",1,Normal
-dpaespprocessors09,"10.237.82.164","/logs",1,Normal
-dpaespprocessors08,"10.237.82.163","/appl/di_shareddata",1,Normal
-dpaespprocessors08,"10.237.82.163","/appl/sasbackup",1,Normal
-dpaespprocessors08,"10.237.82.163","/logs",1,Normal
-dpaespprocessors07,"10.237.82.162","/appl/di_shareddata",1,Normal
-dpaespprocessors07,"10.237.82.162","/appl/sasbackup",1,Normal
-dpaespprocessors07,"10.237.82.162","/logs",1,Normal
-dpaespprocessors06,"10.237.82.161","/appl/di_shareddata",1,Normal
-dpaespprocessors06,"10.237.82.161","/appl/sasbackup",1,Normal
-dpaespprocessors06,"10.237.82.161","/logs",1,Normal
-dpaespprocessors05,"10.237.82.160","/appl/di_shareddata",1,Normal
-dpaespprocessors05,"10.237.82.160","/appl/sasbackup",1,Normal
-dpaespprocessors05,"10.237.82.160","/logs",1,Normal
-dpaespprocessors04,"10.237.82.159","/appl/di_shareddata",1,Normal
-dpaespprocessors04,"10.237.82.159","/appl/sasbackup",1,Normal
-dpaespprocessors04,"10.237.82.159","/logs",1,Normal
-dpaespprocessors03,"10.237.82.158","/appl/di_shareddata",1,Normal
-dpaespprocessors03,"10.237.82.158","/appl/sasbackup",1,Normal
-dpaespprocessors03,"10.237.82.158","/logs",1,Normal
-dpaespprocessors02,"10.237.82.157","/appl/di_shareddata",1,Normal
-dpaespprocessors02,"10.237.82.157","/appl/sasbackup",1,Normal
-dpaespprocessors02,"10.237.82.157","/logs",1,Normal
-dpaespprocessors01,"10.237.82.156","/appl/di_shareddata",1,Normal
-dpaespprocessors01,"10.237.82.156","/appl/sasbackup",1,Normal
-dpaespprocessors01,"10.237.82.156","/logs",1,Normal
-dpaespprocessors00,"10.237.82.155","/appl/di_shareddata",1,Normal
-dpaespprocessors00,"10.237.82.155","/appl/sasbackup",1,Normal
-dpaespprocessors00,"10.237.82.155","/logs",1,Normal
-dpaespkwik02,"10.237.82.176","/appl/di_shareddata",1,
-dpaespkwik02,"10.237.82.176","/appl/sasbackup",1,
-dpaespkwik02,"10.237.82.176","/logs",1,
-dpaespkwik02,"10.237.82.176","/python",1,
-dpaespkwik01,"10.237.82.165","/appl/di_shareddata",1,Normal
-dpaespkwik01,"10.237.82.165","/appl/sasbackup",1,Normal
-dpaespkwik01,"10.237.82.165","/logs",1,Normal
-dpaespeventstreammgr,"10.237.82.166","/appl/di_shareddata",1,
-dpaespeventstreammgr,"10.237.82.166","/appl/repo",1,
-dpaespeventstreammgr,"10.237.82.166","/appl/sasbackup",1,
-dpaespeventstreammgr,"10.237.82.166","/appl/saslogs",1,
 dpaespdistrib,"10.237.82.174","/appl/di_shareddata",1,Normal
 dpaespdistrib,"10.237.82.174","/appl/sasbackup/esp11",1,Normal
 dpaespdistrib,"10.237.82.174","/opt/sas/viya/config",1,Normal
@@ -290,6 +129,7 @@ dpaanalytics,"10.237.82.135","/appl/di_shareddata",1,Normal
 dpaanalytics,"10.237.82.135","/appl/sasbackup",1,Normal
 dpaanalytics,"10.237.82.135","/appl/sasdata",1,Normal
 dpaanalytics,"10.237.82.135","/appl/saslogs",1,Normal
+dpaanalytics,"10.237.82.135","/work",1,Normal
 "ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","/dev",0,Normal
 "ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","/dev",0,Normal
 "ip-10-237-82-143","10.237.82.143","/dev",0,Normal
@@ -298,27 +138,6 @@ dparuntimemetadata02,"10.237.82.141","/dev",0,Normal
 dparuntimemetadata01,"10.237.82.140","/dev",0,Normal
 dpartdmruntimedeployment,"10.237.82.139","/dev",0,Normal
 dpama,"10.237.82.137","/dev",0,Normal
-dpaespprocessors90,"10.237.82.183","/dev",0,Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","/dev",0,Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","/dev",0,Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","/dev",0,Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","/dev",0,Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","/dev",0,Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","/dev",0,Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","/dev",0,Normal
-dpaespprocessors09,"10.237.82.164","/dev",0,Normal
-dpaespprocessors08,"10.237.82.163","/dev",0,Normal
-dpaespprocessors07,"10.237.82.162","/dev",0,Normal
-dpaespprocessors06,"10.237.82.161","/dev",0,Normal
-dpaespprocessors05,"10.237.82.160","/dev",0,Normal
-dpaespprocessors04,"10.237.82.159","/dev",0,Normal
-dpaespprocessors03,"10.237.82.158","/dev",0,Normal
-dpaespprocessors02,"10.237.82.157","/dev",0,Normal
-dpaespprocessors01,"10.237.82.156","/dev",0,Normal
-dpaespprocessors00,"10.237.82.155","/dev",0,Normal
-dpaespkwik02,"10.237.82.176","/dev",0,
-dpaespkwik01,"10.237.82.165","/dev",0,Normal
-dpaespeventstreammgr,"10.237.82.166","/dev",0,
 dpaespdistrib,"10.237.82.174","/dev",0,Normal
 dpaespconn02,"10.237.82.179","/dev",0,Normal
 dpaespconn01,"10.237.82.178","/dev",0,Normal
@@ -329,6 +148,24 @@ dpadesignmetadata,"10.237.82.136","/dev",0,Normal
 dpadeployment,"10.237.82.167","/dev",0,Normal
 dpaanalytics,"10.237.82.135","/dev",0,Normal
 "ip-10-237-82-145.ap-southeast-1.compute.internal","10.237.82.145",,,"NO DATA"
-"dpaespprocessors15.globetel.com","10.237.82.154",,,"NO DATA"
-"dpaespprocessors14.globetel.com","10.237.82.153",,,"NO DATA"
+dpaespprocessors91,"10.237.82.199",,,"NO DATA"
+"dpaespprocessors20.globetel.com","10.237.82.186",,,"NO DATA"
+"dpaespprocessors19.globetel.com","10.237.82.184",,,"NO DATA"
+"dpaespprocessors18.globetel.com","10.237.82.182",,,"NO DATA"
+"dpaespprocessors17.globetel.com","10.237.82.181",,,"NO DATA"
+"dpaespprocessors13.globetel.com","10.237.82.152",,,"NO DATA"
+"dpaespprocessors12.globetel.com","10.237.82.151",,,"NO DATA"
 "dpaespprocessors11.globetel.com","10.237.82.188",,,"NO DATA"
+dpaespprocessors09,"10.237.82.164",,,"NO DATA"
+dpaespprocessors08,"10.237.82.163",,,"NO DATA"
+dpaespprocessors07,"10.237.82.162",,,"NO DATA"
+dpaespprocessors06,"10.237.82.161",,,"NO DATA"
+dpaespprocessors05,"10.237.82.160",,,"NO DATA"
+dpaespprocessors04,"10.237.82.159",,,"NO DATA"
+dpaespprocessors03,"10.237.82.158",,,"NO DATA"
+dpaespprocessors02,"10.237.82.157",,,"NO DATA"
+dpaespprocessors01,"10.237.82.156",,,"NO DATA"
+dpaespprocessors00,"10.237.82.155",,,"NO DATA"
+dpaespkwik02,"10.237.82.176",,,"NO DATA"
+dpaespkwik01,"10.237.82.165",,,"NO DATA"
+dpaespeventstreammgr,"10.237.82.166",,,"NO DATA"

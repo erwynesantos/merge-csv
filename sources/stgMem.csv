@@ -1,45 +1,39 @@
 Host,"IP Address",Used,Status
-dpastgespkwik02,"10.237.82.215","81.5",Normal
-dpastgespkwik01,"10.237.82.216","75.6",Normal
-dpastgrtdmrundep,"10.237.82.245","48.4",Normal
-dpastgdesmid,"10.237.82.254","33.8",Normal
-dpastgespproc10,"10.237.82.227","31.8",Normal
-dpastgespesm,"10.237.82.226","30.2",Normal
-"dpastgespproc16.globetel.com","10.237.82.204","28.8",Normal
-dpastgdesrtdm,"10.237.82.253","25.2",Normal
-"dpastgespproc12.globetel.com","10.237.82.149","16.3",Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","15.8",Normal
-dpastgdesmeta,"10.237.82.250","15.4",Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","13.5",Normal
-dpastgrunmeta02,"10.237.82.243","11.4",Normal
-dpastgrunmeta03,"10.237.82.242","10.6",Normal
-dpastgespconn01,"10.237.82.217","10.4",Normal
-dpastgrunmeta01,"10.237.82.244","10.0",Normal
-"dpastgespproc13.globetel.com","10.237.82.201","10.0",Normal
-"ip-10-237-82-241.ap-southeast-1.compute.internal","10.237.82.241","9.2",Normal
-dpastgma,"10.237.82.247","9.2",Normal
-dpastgespconn02,"10.237.82.214","9.0",Normal
-"ip-10-237-82-240","10.237.82.240","8.0",Normal
-"ip-10-237-82-238","10.237.82.238","7.9",Normal
-"ip-10-237-82-239","10.237.82.239","7.4",Normal
-dpastgdeployment,"10.237.82.225","6.1",Normal
-"dpastgespproc19.globetel.com","10.237.82.207","4.2",Normal
-"dpastgespproc17.globetel.com","10.237.82.205","4.2",Normal
-"dpastgespproc18.globetel.com","10.237.82.206","4.1",Normal
-"dpastgespproc20.globetel.com","10.237.82.208","4.0",Normal
-dpastgdicomp,"10.237.82.252","3.1",Normal
-dpastgespproc07,"10.237.82.230","2.6",Normal
-dpastgespproc04,"10.237.82.233","2.5",Normal
-dpastgespproc02,"10.237.82.235","2.4",Normal
-dpastgespproc00,"10.237.82.237","2.4",Normal
-dpastgespproc05,"10.237.82.232","2.3",Normal
-dpastgespproc03,"10.237.82.234","2.3",Normal
-dpastgespproc01,"10.237.82.236","2.3",Normal
-dpastganlytcs,"10.237.82.251","2.3",Normal
-dpastgespproc08,"10.237.82.229","2.2",Normal
-dpastgespproc09,"10.237.82.228","2.1",Normal
-dpastgespproc06,"10.237.82.231","2.1",Normal
-dpastgmo,"10.237.82.246","1.4",Normal
-"dpastgespproc11.globetel.com","10.237.82.147",,"NO DATA"
-"dpastgespproc15.globetel.com","10.237.82.203",,"NO DATA"
-"dpastgespproc14.globetel.com","10.237.82.202",,"NO DATA"
+dpastgdesmid,"10.237.82.254","73.8",Normal
+dpastgrtdmrundep,"10.237.82.245","45.1",Normal
+dpastgespproc10,"10.237.82.227","30.9",Normal
+dpastgdesrtdm,"10.237.82.253","18.2",Normal
+dpastgdesmeta,"10.237.82.250","14.3",Normal
+dpastgrunmeta02,"10.237.82.243","13.1",Normal
+dpastgrunmeta03,"10.237.82.242","11.2",Normal
+dpastgrunmeta01,"10.237.82.244","10.1",Normal
+dpastgma,"10.237.82.247","8.7",Normal
+dpastgdeployment,"10.237.82.225","5.8",Normal
+dpastgdicomp,"10.237.82.252","3.5",Normal
+"ip-10-237-82-239","10.237.82.239","3.0",Normal
+"ip-10-237-82-238","10.237.82.238","3.0",Normal
+"ip-10-237-82-240","10.237.82.240","2.9",Normal
+dpastganlytcs,"10.237.82.251","2.4",Normal
+dpastgespconn02,"10.237.82.214","1.9",Normal
+dpastgmo,"10.237.82.246","1.3",Normal
+dpastgespconn01,"10.237.82.217","1.1",Normal
+"ip-10-237-82-241","10.237.82.241",,"NO DATA"
+"dpastgespproc20.globetel.com","10.237.82.208",,"NO DATA"
+"dpastgespproc19.globetel.com","10.237.82.207",,"NO DATA"
+"dpastgespproc18.globetel.com","10.237.82.206",,"NO DATA"
+"dpastgespproc17.globetel.com","10.237.82.205",,"NO DATA"
+"dpastgespproc13.globetel.com","10.237.82.201",,"NO DATA"
+"dpastgespproc12.globetel.com","10.237.82.149",,"NO DATA"
+dpastgespproc09,"10.237.82.228",,"NO DATA"
+dpastgespproc08,"10.237.82.229",,"NO DATA"
+dpastgespproc07,"10.237.82.230",,"NO DATA"
+dpastgespproc06,"10.237.82.231",,"NO DATA"
+dpastgespproc05,"10.237.82.232",,"NO DATA"
+dpastgespproc04,"10.237.82.233",,"NO DATA"
+dpastgespproc03,"10.237.82.234",,"NO DATA"
+dpastgespproc02,"10.237.82.235",,"NO DATA"
+dpastgespproc01,"10.237.82.236",,"NO DATA"
+dpastgespproc00,"10.237.82.237",,"NO DATA"
+dpastgespkwik02,"10.237.82.215",,"NO DATA"
+dpastgespkwik01,"10.237.82.216",,"NO DATA"
+dpastgespesm,"10.237.82.226",,"NO DATA"

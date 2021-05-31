@@ -3,10 +3,28 @@
 
 ---
 ## Changelog
-### Version 1.0.0 28-Jan-2021
-* Initial release.
 
-### Version 1.0.2 25-Feb-2020
+### [v2.0.0](run-me-v2.0.0.ipynb)
+#### Added
+* Added dropping of rows with _NaN_ values on the "Used" column.
+* Added more "PRINT TO SCREEN" options.
+
+#### Changed
+* Changed environment file from envCPU.csv to envcpu.csv.
+* Changed environment file from envMem.csv to envmem.csv.
+* Changed environment file from envFS.csv to envfs.csv.
+* Changed source file from prodMem.csv to prodmem.csv.
+* Changed source file from stgMem.csv to stgmem.csv.
+* Changed source file from prodCPU.csv to prodcpu.csv.
+* Changed source file from stgCPU.csv to stgcpu.csv.
+* Changed source file from prodCPU.csv to prodcpu.csv.
+* Removed `.head()` option in when exporting to individual csv files as it is no longer required.
+* Compiled all lines of code to one page / one jupyter notebook row.
+* Backed previous version to `./old-scripts/run-me-v1.0.2.ipynb`.
+
+### [v1.0.2](./old-scripts/run-me-v1.0.2.ipynb) (25-02-2021)
+
+#### Changed
 * print_prod_CPU.to_csv to print_stg_CPU.head(29).to_csv to only print the 30 PROD servers for CPU util.
 * print_prod_Mem.to_csv to print_stg_Mem.head(29).to_csv to only print the 30 PROD servers for Mem util.
 * print_stg_CPU.to_csv to print_stg_CPU.head(30).to_csv to only print the 30 STG servers for CPU util.
@@ -16,7 +34,12 @@
 * Added cleanup commands such as removing additional column and resetting the index number in the final output.
 * Combined outputs for prod and staging environments.
 * Combined all .csv outputs to multiple sheets in one .xlsx file.
-* Renamed python script to run-me.ipynb
+* Renamed python script to run-me.ipynb.
+
+### v1.0.0 (28-01-2021)
+* Initial release.
+
+
 ---
 ## Preparation
 ### Requirements
@@ -28,11 +51,11 @@
 ### Files Needed
 1. envMem.csv - from DPA Environment (once)
 2. envCPU.csv - from DPA Environment (once)
-3. prodMem.csv - from Splunk (weekly)
-4. prodCPU.csv - from Splunk (weekly)
-5. stgCPU.csv  - from Splunk (weekly)
-6. stgMem.csv - from Splunk (weekly)
-7. prodFS.csv - from Splunk (weekly)
+3. prodmem.csv - from Splunk (weekly)
+4. prodcpu.csv - from Splunk (weekly)
+5. stgcpu.csv  - from Splunk (weekly)
+6. stgmem.csv - from Splunk (weekly)
+7. prodfs.csv - from Splunk (weekly)
 
 ### Links
 * [DPA Environment](https://docs.google.com/spreadsheets/d/1Ll7-mdb8tsGUKIDYJ-dMEBmydxXf24krk8J7r1RIUog/edit#gid=588246582)

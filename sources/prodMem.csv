@@ -1,44 +1,41 @@
 Host,"IP Address",Used,Status
-dpartdmruntimedeployment,"10.237.82.139","75.4",Normal
-dpaespprocessors08,"10.237.82.163","54.7",Normal
-dpaespdistrib,"10.237.82.174","49.5",Normal
-dpaespprocessors06,"10.237.82.161","47.9",Normal
-dpaespprocessors04,"10.237.82.159","47.3",Normal
-dpaespprocessors02,"10.237.82.157","47.3",Normal
-dpaespprocessors01,"10.237.82.156","47.2",Normal
-dpaespprocessors00,"10.237.82.155","47.2",Normal
-dpaespprocessors09,"10.237.82.164","47.0",Normal
-dpaespprocessors05,"10.237.82.160","47.0",Normal
-dpaespprocessors03,"10.237.82.158","47.0",Normal
-dpaespprocessors07,"10.237.82.162","45.8",Normal
-dpadesignmidtier,"10.237.82.132","35.9",Normal
-dpaespeventstreammgr,"10.237.82.166","28.2",
-dpaespconn01,"10.237.82.178","22.7",Normal
-dpadesignrtdm,"10.237.82.133","18.1",Normal
-dpadesignmetadata,"10.237.82.136","16.9",Normal
-dpaespconn02,"10.237.82.179","16.4",Normal
-"dpaespprocessors19.globetel.com","10.237.82.184","15.8",Normal
-"dpaespprocessors16.globetel.com","10.237.82.172","14.4",Normal
-"dpaespprocessors20.globetel.com","10.237.82.186","13.8",Normal
-"dpaespprocessors18.globetel.com","10.237.82.182","13.5",Normal
-"dpaespprocessors17.globetel.com","10.237.82.181","13.0",Normal
-dparuntimemetadata03,"10.237.82.142","10.8",Normal
-dparuntimemetadata01,"10.237.82.140","10.6",Normal
-dparuntimemetadata02,"10.237.82.141","9.3",Normal
-"ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","7.6",Normal
-"ip-10-237-82-143","10.237.82.143","7.6",Normal
-"ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","7.5",Normal
-dpaespkwik02,"10.237.82.176","6.3",
-dpaespkwik01,"10.237.82.165","6.0",Normal
-dpaespprocessors90,"10.237.82.183","5.0",Normal
-dpadeployment,"10.237.82.167","4.2",Normal
-"dpaespprocessors13.globetel.com","10.237.82.152","4.0",Normal
-"dpaespprocessors12.globetel.com","10.237.82.151","4.0",Normal
-dpama,"10.237.82.137","3.8",Normal
-dpaanalytics,"10.237.82.135","2.0",Normal
-dpadicompute,"10.237.82.134","1.9",Normal
+dpartdmruntimedeployment,"10.237.82.139","77.2",Normal
+dpaespdistrib,"10.237.82.174","50.5",Normal
+dpadesignmidtier,"10.237.82.132","23.3",Normal
+dpaanalytics,"10.237.82.135","18.5",Normal
+dpadesignrtdm,"10.237.82.133","15.1",Normal
+dparuntimemetadata01,"10.237.82.140","11.8",Normal
+dparuntimemetadata02,"10.237.82.141","10.7",Normal
+dparuntimemetadata03,"10.237.82.142","10.6",Normal
+dpadesignmetadata,"10.237.82.136","10.6",Normal
+dpadeployment,"10.237.82.167","3.9",Normal
+"ip-10-237-82-144.ap-southeast-1.compute.internal","10.237.82.144","3.7",Normal
+"ip-10-237-82-146.ap-southeast-1.compute.internal","10.237.82.146","3.5",Normal
+"ip-10-237-82-143","10.237.82.143","3.3",Normal
+dpama,"10.237.82.137","3.2",Normal
+dpadicompute,"10.237.82.134","1.4",Normal
 dpamo,"10.237.82.138","1.2",Normal
+dpaespconn02,"10.237.82.179","0.8",Normal
+dpaespconn01,"10.237.82.178","0.8",Normal
 "ip-10-237-82-145.ap-southeast-1.compute.internal","10.237.82.145",,"NO DATA"
-"dpaespprocessors15.globetel.com","10.237.82.154",,"NO DATA"
-"dpaespprocessors14.globetel.com","10.237.82.153",,"NO DATA"
+dpaespprocessors91,"10.237.82.199",,"NO DATA"
+"dpaespprocessors20.globetel.com","10.237.82.186",,"NO DATA"
+"dpaespprocessors19.globetel.com","10.237.82.184",,"NO DATA"
+"dpaespprocessors18.globetel.com","10.237.82.182",,"NO DATA"
+"dpaespprocessors17.globetel.com","10.237.82.181",,"NO DATA"
+"dpaespprocessors13.globetel.com","10.237.82.152",,"NO DATA"
+"dpaespprocessors12.globetel.com","10.237.82.151",,"NO DATA"
 "dpaespprocessors11.globetel.com","10.237.82.188",,"NO DATA"
+dpaespprocessors09,"10.237.82.164",,"NO DATA"
+dpaespprocessors08,"10.237.82.163",,"NO DATA"
+dpaespprocessors07,"10.237.82.162",,"NO DATA"
+dpaespprocessors06,"10.237.82.161",,"NO DATA"
+dpaespprocessors05,"10.237.82.160",,"NO DATA"
+dpaespprocessors04,"10.237.82.159",,"NO DATA"
+dpaespprocessors03,"10.237.82.158",,"NO DATA"
+dpaespprocessors02,"10.237.82.157",,"NO DATA"
+dpaespprocessors01,"10.237.82.156",,"NO DATA"
+dpaespprocessors00,"10.237.82.155",,"NO DATA"
+dpaespkwik02,"10.237.82.176",,"NO DATA"
+dpaespkwik01,"10.237.82.165",,"NO DATA"
+dpaespeventstreammgr,"10.237.82.166",,"NO DATA"
